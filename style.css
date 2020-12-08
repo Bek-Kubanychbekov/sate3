@@ -10,6 +10,15 @@
     right: 0px;
     top: 0px;
   }
+  #we {
+    position: absolute;
+    height: 500px;
+    width: 650px;
+    left: 700px;
+    top: 40px;
+    bottom: 0px;
+    border-radius: 30px;
+  }
   git init 
   git add style.css
   git commit -m "frist commit"
