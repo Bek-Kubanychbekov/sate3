@@ -193,6 +193,32 @@
     flex-grow: 0;
     margin: 0px 130px;
   }
+  #kl {
+    position: absolute;
+    width: 1060px;
+    height: 53px;
+    left: calc(50% - 1060px / 2);
+    top: 2800px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    color: #8794ba;
+  }
+  #zx {
+    position: absolute;
+    height: 105px;
+    left: 20px;
+    top: 3500px;
+  }
+  #nm {
+    position: absolute;
+    left: 20px;
+    top: 2700px;
+  }
+  
   git init 
   git add style.css
   git commit -m "frist commit"
