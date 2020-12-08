@@ -142,6 +142,57 @@
     flex-grow: 0;
     margin: 0px 130px;
   }
+  #df {
+    position: absolute;
+    width: 620px;
+    height: 53px;
+    left: calc(50% - 620px / 2);
+    top: 600px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #172755;
+  }
+  #fg {
+    position: absolute;
+    width: 1060px;
+    height: 53px;
+    left: calc(50% - 1060px / 2);
+    top: 700px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    color: #8794ba;
+  }
+  #gh {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 1180px;
+    height: 164px;
+    left: calc(50% - 1180px / 2);
+    top: 800px;
+  }
+  #jk {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 1180.26px;
+    height: 1470px;
+    top: 1000px;
+    flex-grow: 0;
+    margin: 0px 130px;
+  }
   git init 
   git add style.css
   git commit -m "frist commit"
