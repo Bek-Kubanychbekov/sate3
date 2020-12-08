@@ -43,6 +43,24 @@
     top: 186px;
     border-radius: 60.1667px;
   }
+  #yu {
+    position: absolute;
+    width: 45.07px;
+    height: 27.68px;
+    left: 900px;
+    top: 200px;
+    color: blue;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.7229px;
+    line-height: 28px;
+    font-weight: bold;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0.601667px;
+  }
   git init 
   git add style.css
   git commit -m "frist commit"
